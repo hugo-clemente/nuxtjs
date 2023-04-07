@@ -1,3 +1,4 @@
+test
 ---
 title: NuxtJS
 description: A basic NuxtJS app
